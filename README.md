@@ -1,6 +1,6 @@
 - YO I’m @JAYSHUBFR
 - Im a website dev
-- i made unblocked websites with vpn proxys and 
+- i make unblocked websites with vpn proxys and 
 - emulators
 - explotis
 - blockers
